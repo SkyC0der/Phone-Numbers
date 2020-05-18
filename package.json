@@ -1,0 +1,34 @@
+{
+  "name": "code-challenge-javascript-day-16",
+  "version": "1.0.0",
+  "description": "javascript code challenge day 16. Phone number",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^26.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevCbenin/code-challenge-javascript-day-16.git"
+  },
+  "keywords": [
+    "12 days",
+    "algorithm",
+    "challenge",
+    "leap",
+    "test",
+    "javascript",
+    "facebook",
+    "devc",
+    "benin"
+  ],
+  "author": "damilare-sanusi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevCbenin/code-challenge-javascript-day-16/issues"
+  },
+  "homepage": "https://github.com/DevCbenin/code-challenge-javascript-day-16#readme"
+}
